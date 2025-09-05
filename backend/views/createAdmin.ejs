@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>DisasterManagement</title>
+    <link rel="stylesheet" href="/stylesheets/style.css" />
+    <link
+      href="https://cdn.jsdelivr.net/npm/remixicon@4.5.0/fonts/remixicon.css"
+      rel="stylesheet"
+    />
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+      body::-webkit-scrollbar {
+        display: none;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="bg-zinc-800 min-h-screen flex flex-col p-8 w-full">
+       <a
+        href="/"
+        class="flex justify-between items-center bg-zinc-600 rounded-lg text-white p-4 w-[50px]"
+      >
+        <i class="ri-arrow-left-line"></i
+      ></a>
+      <h1 class="text-4xl text-white">crisisCrafters createAdmin test-1</h1>
+      <div class="w-full flex justify-center items-center mt-10">
+        <form
+          action="/create/admin"
+          method="post"
+          class="flex flex-col w-1/3 justify-center items-center border-2 border-zinc-700 rounded-md p-7"
+        >
+          <input
+            type="text"
+            class="m-2 outline-none rounded-lg text-white border border-zinc-500 text-small bg-transparent py-3 px-5 w-full"
+            name="name"
+            placeholder="Enter your name"
+          />
+          <input
+            type="text"
+            class="m-2 outline-none rounded-lg text-white border border-zinc-500 text-small bg-transparent py-3 px-5 w-full"
+            name="adminId"
+            placeholder="Enter your teacher/Admin Id"
+          />
+          <input
+            type="tel"
+            class="m-2 outline-none rounded-lg text-white border border-zinc-500 text-small bg-transparent py-3 px-5 w-full"
+            name="phnNo"
+            placeholder="Enter your contact number"
+          />
+          <input
+            type="password"
+            class="m-2 outline-none rounded-lg text-white border border-zinc-500 text-small bg-transparent py-3 px-5 w-full"
+            name="password"
+            placeholder="Enter your Password"
+          />
+          <input
+            type="submit"
+            value="Submit"
+            class="bg-blue-500 mt-3 w-1/3 p-3 rounded-lg"
+          />
+        </form>
+      </div>
+    </div>
+  </body>
+</html>
