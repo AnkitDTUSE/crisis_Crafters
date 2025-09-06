@@ -1,9 +1,11 @@
 import React from 'react'
+import Navbar from '../Home/HomeComponents/Navbar/Navbar'
 
 const Checkin = () => {
   return (
     <div>
-      <h1>checkin</h1>
+      <Navbar/>
+      <div className='p-10'><h1 className='text-xl'>checkin</h1></div>
     </div>
   )
 }

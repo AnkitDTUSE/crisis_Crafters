@@ -3,6 +3,8 @@ const express = require("express");
 const mongoose = require("mongoose");
 const cookieParser = require("cookie-parser");
 const session = require("express-session");
+const bodyParser = require("body-parser");
+const cors = require("cors");
 const flash = require("connect-flash");
 const bcrypt = require("bcrypt");
 const jwt = require("jsonwebtoken");
@@ -18,8 +20,15 @@ const app = express();
 app.set("view engine", "ejs");
 
 //setting up middlewares
+app.use(
+  cors({
+    origin: "http://localhost:5173", // frontend URL
+    credentials: true, // allow cookies/sessions if needed
+  })
+);
 app.use(express.static(path.join(__dirname, "public")));
 app.use(express.json());
+app.use(bodyParser.json());
 app.use(express.urlencoded({ extended: true }));
 app.use(cookieParser());
 app.use(
@@ -27,6 +36,11 @@ app.use(
     secret: "ssshhh",
     resave: true,
     saveUninitialized: false,
+    cookie: {
+      httpOnly: true,
+      secure: false, // true only in production with https
+      sameSite: "lax", // important for frontend cookies
+    },
   })
 );
 app.use(flash());
@@ -167,12 +181,11 @@ app.get("/welcome/admin", isloggedIn, (req, res) => {
 });
 
 //logout route
-app.get('/logout',(req,res)=>{
+app.get("/logout", (req, res) => {
   res.clearCookie("token");
-  req.flash("success","logout successfull, want to login again?")
-  res.redirect("/login")
-})
-
+  req.flash("success", "logout successfull, want to login again?");
+  res.redirect("/login");
+});
 
 //protected route logic (isloggedIn middleware)
 function isloggedIn(req, res, next) {

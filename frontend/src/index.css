@@ -1,0 +1,6 @@
+@import "tailwindcss";
+@import 'remixicon/fonts/remixicon.css';
+
+bosy::-webkit-scrollbar{
+    display: none;
+}
