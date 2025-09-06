@@ -2,26 +2,26 @@ import React from "react";
 import { useState } from "react";
 import { useNavigate } from "react-router-dom";
 import logo from "../../assets/logo.png";
-import Navbar from "../Home/HomeComponents/Navbar/Navbar";
 import "./Checkin.css";
+import Navbar from "../Home/HomeComponents/Navbar/Navbar";
 
 const Checkin = () => {
   const [scenario, setScenario] = useState("");
   const [location, setLocation] = useState("");
   const navigate = useNavigate();
+
   const handleStart = () => {
     if (!scenario || !location) {
       alert("⚠️ Please select both a scenario and a location.");
       return;
     }
-    navigate(`/quiz?scenario=${scenario}&location=${location}`);
+    navigate(`/check-in/quiz?scenario=${scenario}&location=${location}`);
   };
 
   return (
     <div className="main-container">
-      <div className="container flex flex-col">
-        <Navbar />
-
+      <div className="container">
+        <Navbar/>
         <div className="header">
           <h1 className="main-head">
             LET'S SEE IF YOU CAN MAKE IT OUT ALIVE…?
@@ -49,7 +49,6 @@ const Checkin = () => {
               <option value="fire">🔥 Fire</option>
               <option value="earthquake">🌍 Earthquake</option>
               <option value="flood">🌊 Flood</option>
-              <option value="terror">⚔️ Terror Attack</option>
             </select>
 
             <label className="drop-down-input-location">

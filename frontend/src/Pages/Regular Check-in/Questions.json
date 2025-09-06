@@ -1,0 +1,1196 @@
+[
+  {
+    "id": "fire1",
+    "scenario": "fire",
+    "location": "metro",
+    "type": "mcq",
+    "question": "What is the safest immediate action if a fire breaks out inside a metro station?",
+    "options": ["Run to the nearest escalator", "Follow exit signs", "Wait for announcement", "Use the elevator"],
+    "correct": "Follow exit signs"
+  },
+  {
+    "id": "fire2",
+    "scenario": "fire",
+    "location": "metro",
+    "type": "mcq",
+    "question": "If smoke fills the metro platform, what should you do first?",
+    "options": ["Lie flat on the ground", "Cover your nose and mouth with a cloth", "Run blindly towards the crowd", "Wait for staff to arrive"],
+    "correct": "Cover your nose and mouth with a cloth"
+  },
+  {
+    "id": "fire3",
+    "scenario": "fire",
+    "location": "metro",
+    "type": "mcq",
+    "question": "Which option is the most unsafe during a fire inside a metro?",
+    "options": ["Taking the elevator", "Using emergency stairs", "Following emergency lights", "Listening to staff instructions"],
+    "correct": "Taking the elevator"
+  },
+  {
+    "id": "fire4",
+    "scenario": "fire",
+    "location": "metro",
+    "type": "mcq",
+    "question": "If your clothes catch fire inside the metro station, what is the best response?",
+    "options": ["Run as fast as possible", "Stop, Drop, and Roll", "Wave hands and call for help", "Jump onto the train tracks"],
+    "correct": "Stop, Drop, and Roll"
+  },
+  {
+    "id": "fire5",
+    "scenario": "fire",
+    "location": "metro",
+    "type": "mcq",
+    "question": "Before opening a door during a fire, what should you check?",
+    "options": ["If the door handle is hot", "If the lights are on", "If you can hear footsteps", "If the door looks heavy"],
+    "correct": "If the door handle is hot"
+  },
+  {
+    "id": "fire6",
+    "scenario": "fire",
+    "location": "metro",
+    "type": "mcq",
+    "question": "What is the safest way to move through smoke in a metro tunnel?",
+    "options": ["Run while shouting", "Crawl close to the ground", "Stay upright and walk fast", "Cover your eyes only"],
+    "correct": "Crawl close to the ground"
+  },
+  {
+    "id": "fire7",
+    "scenario": "fire",
+    "location": "metro",
+    "type": "mcq",
+    "question": "What should you avoid doing during a fire evacuation in a metro?",
+    "options": ["Following exit signs", "Helping others", "Using the elevator", "Listening to staff instructions"],
+    "correct": "Using the elevator"
+  },
+  {
+    "id": "fire8",
+    "scenario": "fire",
+    "location": "metro",
+    "type": "mcq",
+    "question": "Who should you follow during a metro fire evacuation?",
+    "options": ["The panicking crowd", "Official staff instructions and exit signs", "Friends only", "People running in random directions"],
+    "correct": "Official staff instructions and exit signs"
+  },
+  {
+    "id": "fire9",
+    "scenario": "fire",
+    "location": "metro",
+    "type": "mcq",
+    "question": "When a fire alarm rings inside the metro, what should be your first step?",
+    "options": ["Ignore it if you don't see smoke", "Move calmly towards the nearest exit", "Wait until the smoke is visible", "Call your relatives"],
+    "correct": "Move calmly towards the nearest exit"
+  },
+  {
+    "id": "fire10",
+    "scenario": "fire",
+    "location": "metro",
+    "type": "mcq",
+    "question": "If you are trapped in a metro coach during a fire, what is the best action?",
+    "options": ["Break the window carefully for exit", "Hide under the seats", "Run on the tracks immediately", "Start panicking loudly"],
+    "correct": "Break the window carefully for exit"
+  },
+  {
+    "id": "fire11",
+    "scenario": "fire",
+    "location": "metro",
+    "type": "text",
+    "question": "Describe how you would plan your escape if smoke fills the metro station."
+  },
+  {
+    "id": "fire_classroom1",
+    "scenario": "fire",
+    "location": "classroom",
+    "type": "mcq",
+    "question": "What should be your first action if you notice smoke in the classroom?",
+    "options": ["Raise the alarm and inform the teacher", "Hide under the desk", "Ignore and continue studying", "Jump from the window immediately"],
+    "correct": "Raise the alarm and inform the teacher"
+  },
+  {
+    "id": "fire_classroom2",
+    "scenario": "fire",
+    "location": "classroom",
+    "type": "mcq",
+    "question": "What is the safest way to leave a classroom during a fire?",
+    "options": ["Run towards the nearest staircase exit", "Take the elevator", "Stay until the fire is visible", "Wait for the fire brigade inside"],
+    "correct": "Run towards the nearest staircase exit"
+  },
+  {
+    "id": "fire_classroom3",
+    "scenario": "fire",
+    "location": "classroom",
+    "type": "mcq",
+    "question": "If the classroom door is hot to touch, what should you do?",
+    "options": ["Open it quickly", "Do not open it and look for alternate exits", "Pour water and then open it", "Wait until the fire alarm stops"],
+    "correct": "Do not open it and look for alternate exits"
+  },
+  {
+    "id": "fire_classroom4",
+    "scenario": "fire",
+    "location": "classroom",
+    "type": "mcq",
+    "question": "What is the safest method if smoke enters the classroom?",
+    "options": ["Stay low and crawl towards the exit", "Run around in panic", "Wave hands near the windows", "Cover eyes and wait"],
+    "correct": "Stay low and crawl towards the exit"
+  },
+  {
+    "id": "fire_classroom5",
+    "scenario": "fire",
+    "location": "classroom",
+    "type": "mcq",
+    "question": "What should you avoid carrying while evacuating the classroom?",
+    "options": ["Important books", "Mobile phone", "Heavy bags or belongings", "Water bottle"],
+    "correct": "Heavy bags or belongings"
+  },
+  {
+    "id": "fire_classroom6",
+    "scenario": "fire",
+    "location": "classroom",
+    "type": "mcq",
+    "question": "If your uniform catches fire inside the classroom, what is the best immediate step?",
+    "options": ["Run outside quickly", "Stop, Drop, and Roll", "Scream loudly and wait", "Throw water on yourself"],
+    "correct": "Stop, Drop, and Roll"
+  },
+  {
+    "id": "fire_classroom7",
+    "scenario": "fire",
+    "location": "classroom",
+    "type": "mcq",
+    "question": "What should be your reaction when the fire alarm rings in the classroom?",
+    "options": ["Panic and run randomly", "Evacuate calmly in a line", "Wait for the teacher to shout", "Continue the class until smoke is visible"],
+    "correct": "Evacuate calmly in a line"
+  },
+  {
+    "id": "fire_classroom8",
+    "scenario": "fire",
+    "location": "classroom",
+    "type": "mcq",
+    "question": "What is the teacher’s primary role during a classroom fire?",
+    "options": ["Save only themselves", "Guide students calmly to exits", "Wait for the fire brigade", "Tell students to hide under desks"],
+    "correct": "Guide students calmly to exits"
+  },
+  {
+    "id": "fire_classroom9",
+    "scenario": "fire",
+    "location": "classroom",
+    "type": "mcq",
+    "question": "What is the worst option if trapped inside a classroom with fire outside?",
+    "options": ["Seal gaps with wet cloth", "Break windows for fresh air", "Wait quietly for rescue", "Open the hot door and rush out"],
+    "correct": "Open the hot door and rush out"
+  },
+  {
+    "id": "fire_classroom10",
+    "scenario": "fire",
+    "location": "classroom",
+    "type": "mcq",
+    "question": "Where should students gather after evacuating a classroom fire?",
+    "options": ["Near the staircase", "Assembly point/safe zone", "Inside the playground randomly", "Back inside the classroom"],
+    "correct": "Assembly point/safe zone"
+  },
+  {
+    "id": "fire_classroom11",
+    "scenario": "fire",
+    "location": "classroom",
+    "type": "text",
+    "question": "Describe how you would help your classmates safely exit the classroom during a fire emergency."
+  },
+  {
+    "id": "fire_hostel1",
+    "scenario": "fire",
+    "location": "hostel",
+    "type": "mcq",
+    "question": "What should be your first step if you hear the fire alarm in the hostel at night?",
+    "options": ["Grab essential belongings and evacuate", "Run without shoes", "Hide under the bed", "Ignore and continue sleeping"],
+    "correct": "Grab essential belongings and evacuate"
+  },
+  {
+    "id": "fire_hostel2",
+    "scenario": "fire",
+    "location": "hostel",
+    "type": "mcq",
+    "question": "If the corridor is filled with smoke, what is the safest way to move?",
+    "options": ["Run fast covering your face", "Crawl close to the floor", "Stand upright and walk", "Wait in your room until smoke clears"],
+    "correct": "Crawl close to the floor"
+  },
+  {
+    "id": "fire_hostel3",
+    "scenario": "fire",
+    "location": "hostel",
+    "type": "mcq",
+    "question": "If your room door feels hot during a fire, what should you do?",
+    "options": ["Open it quickly to escape", "Do not open and use alternate exit", "Pour water and force it open", "Bang on the door for help"],
+    "correct": "Do not open and use alternate exit"
+  },
+  {
+    "id": "fire_hostel4",
+    "scenario": "fire",
+    "location": "hostel",
+    "type": "mcq",
+    "question": "Where should hostel residents gather after evacuation?",
+    "options": ["In the hostel lobby", "Near the main gate assembly point", "Inside a nearby room", "On the terrace"],
+    "correct": "Near the main gate assembly point"
+  },
+  {
+    "id": "fire_hostel5",
+    "scenario": "fire",
+    "location": "hostel",
+    "type": "mcq",
+    "question": "What should you avoid using during a hostel fire?",
+    "options": ["Stairs", "Exit doors", "Elevator", "Emergency alarms"],
+    "correct": "Elevator"
+  },
+  {
+    "id": "fire_hostel6",
+    "scenario": "fire",
+    "location": "hostel",
+    "type": "mcq",
+    "question": "If you are trapped in your room, what is the best immediate step?",
+    "options": ["Break the door and run", "Seal gaps with wet cloth and signal from window", "Hide inside the bathroom", "Panic and shout loudly"],
+    "correct": "Seal gaps with wet cloth and signal from window"
+  },
+  {
+    "id": "fire_hostel7",
+    "scenario": "fire",
+    "location": "hostel",
+    "type": "mcq",
+    "question": "If your clothes catch fire in the hostel, what should you do?",
+    "options": ["Run towards the exit", "Stop, Drop, and Roll", "Pour water immediately", "Shout for help while running"],
+    "correct": "Stop, Drop, and Roll"
+  },
+  {
+    "id": "fire_hostel8",
+    "scenario": "fire",
+    "location": "hostel",
+    "type": "mcq",
+    "question": "What is the hostel warden’s primary responsibility during a fire?",
+    "options": ["Save their own belongings", "Guide and account for all residents at the assembly point", "Call only the fire brigade", "Lock all rooms quickly"],
+    "correct": "Guide and account for all residents at the assembly point"
+  },
+  {
+    "id": "fire_hostel9",
+    "scenario": "fire",
+    "location": "hostel",
+    "type": "mcq",
+    "question": "What should residents avoid doing when evacuating?",
+    "options": ["Staying calm and moving quickly", "Helping others evacuate", "Carrying heavy luggage", "Using emergency stairs"],
+    "correct": "Carrying heavy luggage"
+  },
+  {
+    "id": "fire_hostel10",
+    "scenario": "fire",
+    "location": "hostel",
+    "type": "mcq",
+    "question": "If the fire originates from the kitchen area of the hostel, what should you do?",
+    "options": ["Run towards the kitchen to see", "Move away and follow emergency exits", "Ignore until the fire spreads", "Wait for the smell to disappear"],
+    "correct": "Move away and follow emergency exits"
+  },
+  {
+    "id": "fire_hostel11",
+    "scenario": "fire",
+    "location": "hostel",
+    "type": "text",
+    "question": "Describe how you would safely evacuate your hostel room if a fire breaks out during the night."
+  },
+  {
+    "id": "fire_mall1",
+    "scenario": "fire",
+    "location": "mall",
+    "type": "mcq",
+    "question": "What is the first action you should take if a fire breaks out in a mall?",
+    "options": ["Run to the nearest shop", "Look for the nearest emergency exit", "Use the escalator immediately", "Wait for an announcement"],
+    "correct": "Look for the nearest emergency exit"
+  },
+  {
+    "id": "fire_mall2",
+    "scenario": "fire",
+    "location": "mall",
+    "type": "mcq",
+    "question": "If smoke fills the mall, what is the safest way to move?",
+    "options": ["Crawl low to the ground", "Walk upright covering your nose", "Run quickly towards the entrance", "Wait for sprinklers to activate"],
+    "correct": "Crawl low to the ground"
+  },
+  {
+    "id": "fire_mall3",
+    "scenario": "fire",
+    "location": "mall",
+    "type": "mcq",
+    "question": "What should you AVOID using during a mall fire evacuation?",
+    "options": ["Emergency exit doors", "Elevators", "Fire alarms", "Staircases"],
+    "correct": "Elevators"
+  },
+  {
+    "id": "fire_mall4",
+    "scenario": "fire",
+    "location": "mall",
+    "type": "mcq",
+    "question": "If you are inside a store and a fire starts outside, what should you do?",
+    "options": ["Run into the crowd", "Check for alternate back exits of the store", "Hide inside the trial room", "Wait for fire alarms to stop"],
+    "correct": "Check for alternate back exits of the store"
+  },
+  {
+    "id": "fire_mall5",
+    "scenario": "fire",
+    "location": "mall",
+    "type": "mcq",
+    "question": "Where is the safest assembly point after evacuating a mall?",
+    "options": ["Basement parking", "Main entrance open area", "Food court", "Near the escalators"],
+    "correct": "Main entrance open area"
+  },
+  {
+    "id": "fire_mall6",
+    "scenario": "fire",
+    "location": "mall",
+    "type": "mcq",
+    "question": "If a fire alarm rings in the mall, what should shoppers immediately do?",
+    "options": ["Continue shopping until smoke appears", "Follow staff instructions and head to emergency exits", "Take the elevator to leave quickly", "Wait for official confirmation of fire"],
+    "correct": "Follow staff instructions and head to emergency exits"
+  },
+  {
+    "id": "fire_mall7",
+    "scenario": "fire",
+    "location": "mall",
+    "type": "mcq",
+    "question": "If you are with children in the mall during a fire, what should you do?",
+    "options": ["Carry them and evacuate calmly", "Leave them in a shop and escape quickly", "Run ahead and ask them to follow", "Hide in a restroom until help comes"],
+    "correct": "Carry them and evacuate calmly"
+  },
+  {
+    "id": "fire_mall8",
+    "scenario": "fire",
+    "location": "mall",
+    "type": "mcq",
+    "question": "What should mall security do when a fire breaks out?",
+    "options": ["Guide people to safe exits and call the fire brigade", "Lock all shops immediately", "Turn off fire alarms to reduce panic", "Block main exits to control crowd"],
+    "correct": "Guide people to safe exits and call the fire brigade"
+  },
+  {
+    "id": "fire_mall9",
+    "scenario": "fire",
+    "location": "mall",
+    "type": "mcq",
+    "question": "If your clothes catch fire inside the mall, what should you do?",
+    "options": ["Run quickly to the exit", "Stop, Drop, and Roll", "Shout and wait for help", "Remove clothes and keep running"],
+    "correct": "Stop, Drop, and Roll"
+  },
+  {
+    "id": "fire_mall10",
+    "scenario": "fire",
+    "location": "mall",
+    "type": "mcq",
+    "question": "If the fire originates from the food court kitchen, what is the safest action?",
+    "options": ["Move away calmly using nearest emergency exit", "Rush towards the kitchen to see", "Stay in place until sprinklers stop the fire", "Run to the nearest escalator"],
+    "correct": "Move away calmly using nearest emergency exit"
+  },
+  {
+    "id": "fire_mall11",
+    "scenario": "fire",
+    "location": "mall",
+    "type": "text",
+    "question": "Explain how you would safely evacuate a crowded shopping mall during a sudden fire outbreak."
+  },
+  {
+  "id": "eq_metro1",
+  "scenario": "earthquake",
+  "location": "metro",
+  "type": "mcq",
+  "question": "What should you do first if an earthquake occurs while you are inside a metro station?",
+  "options": ["Run immediately to the escalator", "Stay calm and move away from walls or glass", "Use the elevator to exit quickly", "Lie down on the floor of the station"],
+  "correct": "Stay calm and move away from walls or glass"
+},
+
+{
+  "id": "eq_metro2",
+  "scenario": "earthquake",
+  "location": "metro",
+  "type": "mcq",
+  "question": "If you are on the metro platform during an earthquake, what is the safest action?",
+  "options": ["Stand near the edge of the platform", "Move away from the platform edge and hold onto something stable", "Run upstairs immediately", "Sit on the ground near the tracks"],
+  "correct": "Move away from the platform edge and hold onto something stable"
+},
+
+{
+  "id": "eq_metro3",
+  "scenario": "earthquake",
+  "location": "metro",
+  "type": "mcq",
+  "question": "If you are inside a metro train during an earthquake, what should you do?",
+  "options": ["Stand near the doors", "Hold onto the handrails and stay inside", "Try to jump off the train", "Lie flat on the floor"],
+  "correct": "Hold onto the handrails and stay inside"
+},
+
+{
+  "id": "eq_metro4",
+  "scenario": "earthquake",
+  "location": "metro",
+  "type": "mcq",
+  "question": "Why should you avoid elevators during an earthquake in the metro?",
+  "options": ["They may stop working or get stuck", "They move too slowly", "They can only carry few people", "They are far from exits"],
+  "correct": "They may stop working or get stuck"
+},
+
+{
+  "id": "eq_metro5",
+  "scenario": "earthquake",
+  "location": "metro",
+  "type": "mcq",
+  "question": "If debris starts falling in the metro station, where should you take cover?",
+  "options": ["Under sturdy furniture or next to a pillar", "Near glass windows", "In the middle of the platform", "Inside an elevator"],
+  "correct": "Under sturdy furniture or next to a pillar"
+},
+
+{
+  "id": "eq_metro6",
+  "scenario": "earthquake",
+  "location": "metro",
+  "type": "mcq",
+  "question": "When evacuating a metro station after an earthquake, what should you avoid?",
+  "options": ["Using marked emergency exits", "Helping others calmly", "Running in panic", "Following instructions of staff"],
+  "correct": "Running in panic"
+},
+
+{
+  "id": "eq_metro7",
+  "scenario": "earthquake",
+  "location": "metro",
+  "type": "mcq",
+  "question": "If the power goes out during the earthquake inside a metro tunnel, what is the safest action?",
+  "options": ["Stay inside until authorities guide you", "Break open the doors", "Walk alone through the tunnel", "Panic and shout loudly"],
+  "correct": "Stay inside until authorities guide you"
+},
+
+{
+  "id": "eq_metro8",
+  "scenario": "earthquake",
+  "location": "metro",
+  "type": "mcq",
+  "question": "If you are with elderly or disabled persons in the metro during an earthquake, what should you do?",
+  "options": ["Leave them and run", "Assist them calmly towards safe areas", "Wait until staff comes", "Hide alone in a corner"],
+  "correct": "Assist them calmly towards safe areas"
+},
+
+{
+  "id": "eq_metro9",
+  "scenario": "earthquake",
+  "location": "metro",
+  "type": "mcq",
+  "question": "What should metro staff do immediately after an earthquake?",
+  "options": ["Stop train operations and guide passengers", "Continue normal service", "Switch off alarms", "Lock station gates"],
+  "correct": "Stop train operations and guide passengers"
+},
+
+{
+  "id": "eq_metro10",
+  "scenario": "earthquake",
+  "location": "metro",
+  "type": "mcq",
+  "question": "Why is it important to stay calm in a metro during an earthquake?",
+  "options": ["Because panic increases injuries", "Because staff may get angry", "Because calm people are ignored", "Because alarms stop faster"],
+  "correct": "Because panic increases injuries"
+},
+
+{
+  "id": "eq_metro11",
+  "scenario": "earthquake",
+  "location": "metro",
+  "type": "text",
+  "question": "Describe how you would stay safe and help others if an earthquake struck while you were inside a metro station."
+},
+{
+  "id": "eq_class1",
+  "scenario": "earthquake",
+  "location": "classroom",
+  "type": "mcq",
+  "question": "What is the safest immediate action if an earthquake occurs while you are in a classroom?",
+  "options": ["Run outside immediately", "Drop, cover, and hold under a desk", "Stand near windows", "Hide inside the bathroom"],
+  "correct": "Drop, cover, and hold under a desk"
+},
+
+{
+  "id": "eq_class2",
+  "scenario": "earthquake",
+  "location": "classroom",
+  "type": "mcq",
+  "question": "Why should you avoid standing near windows during an earthquake?",
+  "options": ["They may block sunlight", "They might shatter and cause injuries", "They are hard to reach", "They are usually locked"],
+  "correct": "They might shatter and cause injuries"
+},
+
+{
+  "id": "eq_class3",
+  "scenario": "earthquake",
+  "location": "classroom",
+  "type": "mcq",
+  "question": "If you are sitting at a desk when shaking starts, what should you do?",
+  "options": ["Run to the corridor", "Drop under the desk and protect your head", "Stand in the doorway", "Lie flat on the floor"],
+  "correct": "Drop under the desk and protect your head"
+},
+
+{
+  "id": "eq_class4",
+  "scenario": "earthquake",
+  "location": "classroom",
+  "type": "mcq",
+  "question": "What should teachers do during an earthquake inside a classroom?",
+  "options": ["Calmly instruct students to take cover", "Run outside immediately", "Turn off the lights", "Hide in the staff room"],
+  "correct": "Calmly instruct students to take cover"
+},
+
+{
+  "id": "eq_class5",
+  "scenario": "earthquake",
+  "location": "classroom",
+  "type": "mcq",
+  "question": "Why should you stay inside the classroom during the shaking?",
+  "options": ["Because it's safer than running outside during tremors", "Because teachers say so", "Because doors are locked", "Because alarms don’t stop otherwise"],
+  "correct": "Because it's safer than running outside during tremors"
+},
+
+{
+  "id": "eq_class6",
+  "scenario": "earthquake",
+  "location": "classroom",
+  "type": "mcq",
+  "question": "What should you do after the shaking stops in a classroom?",
+  "options": ["Evacuate in an orderly manner using marked exits", "Jump out of the window", "Stay seated permanently", "Hide under the desk forever"],
+  "correct": "Evacuate in an orderly manner using marked exits"
+},
+
+{
+  "id": "eq_class7",
+  "scenario": "earthquake",
+  "location": "classroom",
+  "type": "mcq",
+  "question": "If debris starts falling inside the classroom, where should you protect yourself?",
+  "options": ["Near windows", "Under sturdy desks or tables", "In the corridor", "Against blackboards"],
+  "correct": "Under sturdy desks or tables"
+},
+
+{
+  "id": "eq_class8",
+  "scenario": "earthquake",
+  "location": "classroom",
+  "type": "mcq",
+  "question": "What should students avoid doing when evacuating the classroom after an earthquake?",
+  "options": ["Helping others", "Running in panic", "Following teacher’s instructions", "Using stairs calmly"],
+  "correct": "Running in panic"
+},
+
+{
+  "id": "eq_class9",
+  "scenario": "earthquake",
+  "location": "classroom",
+  "type": "mcq",
+  "question": "Why is it important for classrooms to have earthquake drills?",
+  "options": ["To save time during recess", "To prepare students for real emergencies", "To make classes shorter", "To avoid exams"],
+  "correct": "To prepare students for real emergencies"
+},
+
+{
+  "id": "eq_class10",
+  "scenario": "earthquake",
+  "location": "classroom",
+  "type": "mcq",
+  "question": "If you are near the blackboard or heavy shelves during an earthquake, what should you do?",
+  "options": ["Stay there and hold on", "Move quickly to a safer spot under a desk", "Climb the shelf", "Stand in the doorway"],
+  "correct": "Move quickly to a safer spot under a desk"
+},
+
+{
+  "id": "eq_class11",
+  "scenario": "earthquake",
+  "location": "classroom",
+  "type": "text",
+  "question": "Describe the steps you would take to protect yourself and your classmates if an earthquake occurred during class."
+},
+{
+  "id": "eq_hostel1",
+  "scenario": "earthquake",
+  "location": "hostel",
+  "type": "mcq",
+  "question": "What is the safest action if you are inside your hostel room during an earthquake?",
+  "options": ["Run outside immediately", "Drop, cover, and hold under sturdy furniture", "Stand near the window", "Use the elevator"],
+  "correct": "Drop, cover, and hold under sturdy furniture"
+},
+
+{
+  "id": "eq_hostel2",
+  "scenario": "earthquake",
+  "location": "hostel",
+  "type": "mcq",
+  "question": "Why should you avoid using the elevator during an earthquake in the hostel?",
+  "options": ["Because it may stop working or trap you", "Because it is too slow", "Because it is only for staff", "Because alarms may ring"],
+  "correct": "Because it may stop working or trap you"
+},
+
+{
+  "id": "eq_hostel3",
+  "scenario": "earthquake",
+  "location": "hostel",
+  "type": "mcq",
+  "question": "If you are on the top floor of the hostel, what should you do when shaking starts?",
+  "options": ["Run to the roof", "Stay indoors and take cover under a desk or bed", "Jump from the balcony", "Use the lift to go down"],
+  "correct": "Stay indoors and take cover under a desk or bed"
+},
+
+{
+  "id": "eq_hostel4",
+  "scenario": "earthquake",
+  "location": "hostel",
+  "type": "mcq",
+  "question": "What should hostel residents do after the shaking stops?",
+  "options": ["Evacuate calmly using stairs", "Wait inside rooms permanently", "Run to elevators", "Go back to sleep"],
+  "correct": "Evacuate calmly using stairs"
+},
+
+{
+  "id": "eq_hostel5",
+  "scenario": "earthquake",
+  "location": "hostel",
+  "type": "mcq",
+  "question": "Why should you stay away from windows in your hostel room during an earthquake?",
+  "options": ["Because they block sunlight", "Because glass may shatter and cause injuries", "Because they are hard to open", "Because curtains may fall"],
+  "correct": "Because glass may shatter and cause injuries"
+},
+
+{
+  "id": "eq_hostel6",
+  "scenario": "earthquake",
+  "location": "hostel",
+  "type": "mcq",
+  "question": "What should you grab if it is safe before leaving the hostel after an earthquake?",
+  "options": ["Your phone and essential items", "All your clothes", "Luggage and books", "Nothing at all"],
+  "correct": "Your phone and essential items"
+},
+
+{
+  "id": "eq_hostel7",
+  "scenario": "earthquake",
+  "location": "hostel",
+  "type": "mcq",
+  "question": "Where should hostel residents assemble after evacuating the building?",
+  "options": ["In an open ground away from buildings", "In the hostel corridor", "Near staircases", "On the terrace"],
+  "correct": "In an open ground away from buildings"
+},
+
+{
+  "id": "eq_hostel8",
+  "scenario": "earthquake",
+  "location": "hostel",
+  "type": "mcq",
+  "question": "What should you avoid doing when leaving the hostel after an earthquake?",
+  "options": ["Using stairs", "Running in panic", "Helping others", "Listening to warden’s instructions"],
+  "correct": "Running in panic"
+},
+
+{
+  "id": "eq_hostel9",
+  "scenario": "earthquake",
+  "location": "hostel",
+  "type": "mcq",
+  "question": "Why are earthquake drills important in hostels?",
+  "options": ["To make mornings shorter", "To prepare residents for emergencies", "To avoid attending classes", "To save electricity"],
+  "correct": "To prepare residents for emergencies"
+},
+
+{
+  "id": "eq_hostel10",
+  "scenario": "earthquake",
+  "location": "hostel",
+  "type": "mcq",
+  "question": "If you are in the hostel common room and furniture starts shaking, what should you do?",
+  "options": ["Hold on to the furniture tightly", "Move under a sturdy table or away from heavy objects", "Stand in the doorway", "Run upstairs"],
+  "correct": "Move under a sturdy table or away from heavy objects"
+},
+
+{
+  "id": "eq_hostel11",
+  "scenario": "earthquake",
+  "location": "hostel",
+  "type": "text",
+  "question": "Describe how you would safely evacuate your hostel and assist your roommates after an earthquake."
+},
+{
+  "id": "earthquake_mall_1",
+  "scenario": "earthquake",
+  "location": "mall",
+  "type": "mcq",
+  "question": "What is the safest action to take immediately during an earthquake inside a mall?",
+  "options": ["Run to the nearest exit", "Stay near large glass windows", "Drop, cover, and hold on", "Use the elevator to leave quickly"],
+  "correct": "Drop, cover, and hold on"
+},
+{
+  "id": "earthquake_mall_2",
+  "scenario": "earthquake",
+  "location": "mall",
+  "type": "mcq",
+  "question": "If you are on the ground floor of a mall during an earthquake, what should you do first?",
+  "options": ["Go outside if safe", "Lie flat on the floor", "Run towards the escalator", "Stay under hanging lights"],
+  "correct": "Go outside if safe"
+},
+{
+  "id": "earthquake_mall_3",
+  "scenario": "earthquake",
+  "location": "mall",
+  "type": "mcq",
+  "question": "Which area of the mall should you avoid during an earthquake?",
+  "options": ["Open spaces", "Near emergency exits", "Near large glass windows", "Under sturdy furniture"],
+  "correct": "Near large glass windows"
+},
+{
+  "id": "earthquake_mall_4",
+  "scenario": "earthquake",
+  "location": "mall",
+  "type": "mcq",
+  "question": "What should you avoid using immediately after an earthquake inside a mall?",
+  "options": ["Elevators", "Emergency exits", "Fire alarms", "Emergency assembly areas"],
+  "correct": "Elevators"
+},
+{
+  "id": "earthquake_mall_5",
+  "scenario": "earthquake",
+  "location": "mall",
+  "type": "mcq",
+  "question": "If you are near a food court during an earthquake, what is the safest step?",
+  "options": ["Stay under a strong table", "Run towards the kitchen", "Stand near glass counters", "Use escalators"],
+  "correct": "Stay under a strong table"
+},
+{
+  "id": "earthquake_mall_6",
+  "scenario": "earthquake",
+  "location": "mall",
+  "type": "mcq",
+  "question": "After an earthquake, what is the safest way to evacuate the mall?",
+  "options": ["Follow emergency exit signs", "Wait for elevators", "Climb to the rooftop", "Stay inside"],
+  "correct": "Follow emergency exit signs"
+},
+{
+  "id": "earthquake_mall_7",
+  "scenario": "earthquake",
+  "location": "mall",
+  "type": "mcq",
+  "question": "What should mall security personnel do immediately during an earthquake?",
+  "options": ["Guide people to safe zones", "Lock all exits", "Turn off fire alarms", "Announce shopping offers"],
+  "correct": "Guide people to safe zones"
+},
+{
+  "id": "earthquake_mall_8",
+  "scenario": "earthquake",
+  "location": "mall",
+  "type": "mcq",
+  "question": "Which object should you stay away from during an earthquake inside a mall?",
+  "options": ["Large chandeliers", "Small benches", "Emergency signboards", "Fire extinguishers"],
+  "correct": "Large chandeliers"
+},
+{
+  "id": "earthquake_mall_9",
+  "scenario": "earthquake",
+  "location": "mall",
+  "type": "mcq",
+  "question": "If trapped inside a damaged store after an earthquake, what should you do?",
+  "options": ["Shout or tap loudly to signal rescuers", "Hide silently", "Break glass with bare hands", "Wait quietly"],
+  "correct": "Shout or tap loudly to signal rescuers"
+},
+{
+  "id": "earthquake_mall_10",
+  "scenario": "earthquake",
+  "location": "mall",
+  "type": "mcq",
+  "question": "If aftershocks occur while inside a mall, what is the best immediate action?",
+  "options": ["Drop, cover, and hold on again", "Run to the nearest escalator", "Hide near glass displays", "Use elevators quickly"],
+  "correct": "Drop, cover, and hold on again"
+},
+{
+  "id": "earthquake_mall_11",
+  "scenario": "earthquake",
+  "location": "mall",
+  "type": "text",
+  "question": "Describe how you would ensure your safety if you were inside a crowded mall during an earthquake and exits were blocked."
+},
+{
+  "id": "flood_metro_1",
+  "scenario": "flood",
+  "location": "metro",
+  "type": "mcq",
+  "question": "What should you do first if floodwater starts entering the metro station?",
+  "options": ["Move to higher ground immediately", "Wait near the ticket counter", "Enter a train", "Hide in the restroom"],
+  "correct": "Move to higher ground immediately"
+},
+{
+  "id": "flood_metro_2",
+  "scenario": "flood",
+  "location": "metro",
+  "type": "mcq",
+  "question": "Which is the safest way to exit a metro station during a flood?",
+  "options": ["Follow emergency exit signs leading upward", "Use elevators", "Walk through flooded tracks", "Wait for announcements only"],
+  "correct": "Follow emergency exit signs leading upward"
+},
+{
+  "id": "flood_metro_3",
+  "scenario": "flood",
+  "location": "metro",
+  "type": "mcq",
+  "question": "If water levels rise quickly inside the metro tunnel, what should passengers do?",
+  "options": ["Move towards the emergency exit doors", "Sit inside the train", "Swim across the tunnel", "Wait near escalators"],
+  "correct": "Move towards the emergency exit doors"
+},
+{
+  "id": "flood_metro_4",
+  "scenario": "flood",
+  "location": "metro",
+  "type": "mcq",
+  "question": "What should metro staff do immediately when floodwater is reported?",
+  "options": ["Stop train operations", "Increase train speed", "Lock passengers inside trains", "Switch off emergency lights"],
+  "correct": "Stop train operations"
+},
+{
+  "id": "flood_metro_5",
+  "scenario": "flood",
+  "location": "metro",
+  "type": "mcq",
+  "question": "Why should escalators and elevators be avoided during floods in the metro?",
+  "options": ["They may stop working and trap people", "They are too slow", "They are far from exits", "They have alarms"],
+  "correct": "They may stop working and trap people"
+},
+{
+  "id": "flood_metro_6",
+  "scenario": "flood",
+  "location": "metro",
+  "type": "mcq",
+  "question": "If trapped inside a flooded metro station, what is the best way to call for help?",
+  "options": ["Use emergency intercoms", "Shout continuously", "Stay silent", "Run into the tunnels"],
+  "correct": "Use emergency intercoms"
+},
+{
+  "id": "flood_metro_7",
+  "scenario": "flood",
+  "location": "metro",
+  "type": "mcq",
+  "question": "What should passengers avoid touching in a flooded metro station?",
+  "options": ["Electrical equipment and wires", "Railings", "Walls", "Plastic chairs"],
+  "correct": "Electrical equipment and wires"
+},
+{
+  "id": "flood_metro_8",
+  "scenario": "flood",
+  "location": "metro",
+  "type": "mcq",
+  "question": "If water reaches ankle level inside a metro platform, what is the safest action?",
+  "options": ["Move upward to higher levels", "Stand still until it stops", "Go down to the tracks", "Use escalators"],
+  "correct": "Move upward to higher levels"
+},
+{
+  "id": "flood_metro_9",
+  "scenario": "flood",
+  "location": "metro",
+  "type": "mcq",
+  "question": "Which announcement should passengers follow during a flood in the metro?",
+  "options": ["Emergency evacuation instructions", "Train arrival times", "Promotional messages", "None of them"],
+  "correct": "Emergency evacuation instructions"
+},
+{
+  "id": "flood_metro_10",
+  "scenario": "flood",
+  "location": "metro",
+  "type": "mcq",
+  "question": "If you see others panicking during a flood in the metro, what should you do?",
+  "options": ["Stay calm and guide them towards exits", "Run faster than them", "Shout loudly to add panic", "Wait behind"],
+  "correct": "Stay calm and guide them towards exits"
+},
+{
+  "id": "flood_metro_11",
+  "scenario": "flood",
+  "location": "metro",
+  "type": "text",
+  "question": "Describe how you would safely evacuate yourself and help others if water was quickly filling a metro station."
+},
+{
+  "id": "flood_classroom_1",
+  "scenario": "flood",
+  "location": "classroom",
+  "type": "mcq",
+  "question": "What should students do first if floodwater starts entering the classroom?",
+  "options": ["Move to higher floors immediately", "Stay seated at desks", "Run outside without guidance", "Wait for water to stop"],
+  "correct": "Move to higher floors immediately"
+},
+{
+  "id": "flood_classroom_2",
+  "scenario": "flood",
+  "location": "classroom",
+  "type": "mcq",
+  "question": "Which action should a teacher take during a flood in school?",
+  "options": ["Guide students calmly to higher ground", "Ask everyone to stay in seats", "Close windows and wait", "Send students individually"],
+  "correct": "Guide students calmly to higher ground"
+},
+{
+  "id": "flood_classroom_3",
+  "scenario": "flood",
+  "location": "classroom",
+  "type": "mcq",
+  "question": "Why should classrooms on the ground floor be evacuated quickly in case of flooding?",
+  "options": ["Water rises faster at lower levels", "It is noisy", "Teachers ask for attendance", "Lights are dim"],
+  "correct": "Water rises faster at lower levels"
+},
+{
+  "id": "flood_classroom_4",
+  "scenario": "flood",
+  "location": "classroom",
+  "type": "mcq",
+  "question": "What should you avoid doing during a flood inside the classroom?",
+  "options": ["Touching electrical sockets", "Moving to higher floors", "Following teacher’s instructions", "Helping classmates"],
+  "correct": "Touching electrical sockets"
+},
+{
+  "id": "flood_classroom_5",
+  "scenario": "flood",
+  "location": "classroom",
+  "type": "mcq",
+  "question": "If floodwater blocks the classroom exit, what should students do?",
+  "options": ["Use alternative routes like windows or other doors", "Wait inside silently", "Panic and run around", "Stand near walls"],
+  "correct": "Use alternative routes like windows or other doors"
+},
+{
+  "id": "flood_classroom_6",
+  "scenario": "flood",
+  "location": "classroom",
+  "type": "mcq",
+  "question": "What is the safest position for students if evacuation is delayed due to heavy water flow?",
+  "options": ["Move to desks or furniture above ground level", "Stand barefoot in water", "Sit near the door", "Stay on the floor"],
+  "correct": "Move to desks or furniture above ground level"
+},
+{
+  "id": "flood_classroom_7",
+  "scenario": "flood",
+  "location": "classroom",
+  "type": "mcq",
+  "question": "What item can be most useful if trapped in a flooded classroom?",
+  "options": ["Mobile phone to call for help", "Books", "Chalkboard", "Broomstick"],
+  "correct": "Mobile phone to call for help"
+},
+{
+  "id": "flood_classroom_8",
+  "scenario": "flood",
+  "location": "classroom",
+  "type": "mcq",
+  "question": "How should students move during evacuation in floods?",
+  "options": ["In a calm line guided by teachers", "Running in all directions", "Individually without order", "Pushing each other"],
+  "correct": "In a calm line guided by teachers"
+},
+{
+  "id": "flood_classroom_9",
+  "scenario": "flood",
+  "location": "classroom",
+  "type": "mcq",
+  "question": "Why should students avoid going to the basement during flooding?",
+  "options": ["Water collects faster in basements", "It is dark", "It has no desks", "It is smaller"],
+  "correct": "Water collects faster in basements"
+},
+{
+  "id": "flood_classroom_10",
+  "scenario": "flood",
+  "location": "classroom",
+  "type": "mcq",
+  "question": "What should be the teacher’s priority during a flood emergency?",
+  "options": ["Ensure all students are evacuated safely", "Save personal belongings", "Take attendance first", "Lock the classroom"],
+  "correct": "Ensure all students are evacuated safely"
+},
+{
+  "id": "flood_classroom_11",
+  "scenario": "flood",
+  "location": "classroom",
+  "type": "text",
+  "question": "Explain how you would evacuate safely from a flooded classroom and help classmates during the situation."
+},
+{
+  "id": "flood_hostel_1",
+  "scenario": "flood",
+  "location": "hostel",
+  "type": "mcq",
+  "question": "What should be your first action if floodwater starts entering the hostel building?",
+  "options": ["Move to higher floors immediately", "Hide under the bed", "Wait for the warden", "Run outside without checking"],
+  "correct": "Move to higher floors immediately"
+},
+{
+  "id": "flood_hostel_2",
+  "scenario": "flood",
+  "location": "hostel",
+  "type": "mcq",
+  "question": "Which of the following should be avoided during hostel flooding?",
+  "options": ["Using elevators", "Taking emergency kits", "Helping friends", "Listening to instructions"],
+  "correct": "Using elevators"
+},
+{
+  "id": "flood_hostel_3",
+  "scenario": "flood",
+  "location": "hostel",
+  "type": "mcq",
+  "question": "Why should electrical appliances be turned off during a hostel flood?",
+  "options": ["To prevent electrocution", "To save battery life", "To reduce noise", "To avoid confusion"],
+  "correct": "To prevent electrocution"
+},
+{
+  "id": "flood_hostel_4",
+  "scenario": "flood",
+  "location": "hostel",
+  "type": "mcq",
+  "question": "Where should hostel residents gather after evacuation?",
+  "options": ["Designated safe zone or higher ground", "Basement area", "Mess hall", "Any random room"],
+  "correct": "Designated safe zone or higher ground"
+},
+{
+  "id": "flood_hostel_5",
+  "scenario": "flood",
+  "location": "hostel",
+  "type": "mcq",
+  "question": "What item is most useful during hostel flooding?",
+  "options": ["Torch and emergency kit", "Sports equipment", "Books", "Blankets only"],
+  "correct": "Torch and emergency kit"
+},
+{
+  "id": "flood_hostel_6",
+  "scenario": "flood",
+  "location": "hostel",
+  "type": "mcq",
+  "question": "Why should you avoid going to the ground floor during flooding?",
+  "options": ["Water level rises faster on lower floors", "It is too noisy", "There are no washrooms", "It is crowded"],
+  "correct": "Water level rises faster on lower floors"
+},
+{
+  "id": "flood_hostel_7",
+  "scenario": "flood",
+  "location": "hostel",
+  "type": "mcq",
+  "question": "What should the hostel warden’s priority be during a flood?",
+  "options": ["Ensure all students are safe and evacuated", "Save hostel property first", "Lock all rooms", "Call parents immediately"],
+  "correct": "Ensure all students are safe and evacuated"
+},
+{
+  "id": "flood_hostel_8",
+  "scenario": "flood",
+  "location": "hostel",
+  "type": "mcq",
+  "question": "What is the safest way to move through floodwater inside the hostel?",
+  "options": ["Walk slowly and hold onto walls", "Run quickly through water", "Swim across hallways", "Jump across puddles"],
+  "correct": "Walk slowly and hold onto walls"
+},
+{
+  "id": "flood_hostel_9",
+  "scenario": "flood",
+  "location": "hostel",
+  "type": "mcq",
+  "question": "What should you do if you are trapped in your hostel room due to flooding?",
+  "options": ["Signal for help from a window or balcony", "Stay silent and hidden", "Wait until water enters fully", "Break all furniture"],
+  "correct": "Signal for help from a window or balcony"
+},
+{
+  "id": "flood_hostel_10",
+  "scenario": "flood",
+  "location": "hostel",
+  "type": "mcq",
+  "question": "Why should students avoid panicking during hostel flooding?",
+  "options": ["It ensures evacuation happens safely", "It makes the water recede", "It helps save furniture", "It improves communication network"],
+  "correct": "It ensures evacuation happens safely"
+},
+{
+  "id": "flood_hostel_11",
+  "scenario": "flood",
+  "location": "hostel",
+  "type": "text",
+  "question": "Describe how you would plan your evacuation from a flooded hostel while ensuring safety of your roommates."
+},
+{
+  "id": "flood_mall_1",
+  "scenario": "flood",
+  "location": "mall",
+  "type": "mcq",
+  "question": "What is the safest immediate action if floodwater begins entering a mall?",
+  "options": ["Move to higher floors immediately", "Wait near the entrance", "Hide in a store room", "Stand near escalators"],
+  "correct": "Move to higher floors immediately"
+},
+{
+  "id": "flood_mall_2",
+  "scenario": "flood",
+  "location": "mall",
+  "type": "mcq",
+  "question": "Why should you avoid using escalators or elevators during mall flooding?",
+  "options": ["They may stop working or trap people", "They are too slow", "They are too crowded", "They are expensive to repair"],
+  "correct": "They may stop working or trap people"
+},
+{
+  "id": "flood_mall_3",
+  "scenario": "flood",
+  "location": "mall",
+  "type": "mcq",
+  "question": "What is the most important thing to follow when evacuating a mall during a flood?",
+  "options": ["Emergency exit signs", "Shopkeeper’s directions", "Crowd movement only", "Advertisements"],
+  "correct": "Emergency exit signs"
+},
+{
+  "id": "flood_mall_4",
+  "scenario": "flood",
+  "location": "mall",
+  "type": "mcq",
+  "question": "What should security staff prioritize during mall flooding?",
+  "options": ["Guide people to safety", "Secure the shops", "Switch off the lights", "Lock all entrances"],
+  "correct": "Guide people to safety"
+},
+{
+  "id": "flood_mall_5",
+  "scenario": "flood",
+  "location": "mall",
+  "type": "mcq",
+  "question": "Where should people gather once they evacuate the mall during a flood?",
+  "options": ["Safe higher ground outside the mall", "Mall basement parking", "Cinema hall", "Food court"],
+  "correct": "Safe higher ground outside the mall"
+},
+{
+  "id": "flood_mall_6",
+  "scenario": "flood",
+  "location": "mall",
+  "type": "mcq",
+  "question": "Why is it dangerous to remain in the mall’s basement parking during flooding?",
+  "options": ["Water can fill quickly and trap people", "It is too dark", "There are no emergency exits", "It is too noisy"],
+  "correct": "Water can fill quickly and trap people"
+},
+{
+  "id": "flood_mall_7",
+  "scenario": "flood",
+  "location": "mall",
+  "type": "mcq",
+  "question": "What should you carry with you if possible while evacuating from a mall during flooding?",
+  "options": ["Essential belongings and emergency kit", "All shopping bags", "Electronics and gadgets", "Shoes and clothes"],
+  "correct": "Essential belongings and emergency kit"
+},
+{
+  "id": "flood_mall_8",
+  "scenario": "flood",
+  "location": "mall",
+  "type": "mcq",
+  "question": "What is the biggest risk of rushing in panic during mall flooding?",
+  "options": ["Stampede or injury", "Water rises faster", "Security gets angry", "Shops get damaged"],
+  "correct": "Stampede or injury"
+},
+{
+  "id": "flood_mall_9",
+  "scenario": "flood",
+  "location": "mall",
+  "type": "mcq",
+  "question": "What should mall management do immediately after floodwater starts entering?",
+  "options": ["Make announcements guiding people to exits", "Close all emergency doors", "Switch on music to calm people", "Ask everyone to stay inside shops"],
+  "correct": "Make announcements guiding people to exits"
+},
+{
+  "id": "flood_mall_10",
+  "scenario": "flood",
+  "location": "mall",
+  "type": "mcq",
+  "question": "Why is it important to stay calm during mall flooding?",
+  "options": ["It helps ensure safe evacuation", "It reduces water damage", "It helps shops remain open", "It makes the flood stop"],
+  "correct": "It helps ensure safe evacuation"
+},
+{
+  "id": "flood_mall_11",
+  "scenario": "flood",
+  "location": "mall",
+  "type": "text",
+  "question": "Describe how you would plan your escape from a flooded mall while ensuring you avoid panic and help others."
+}
+]

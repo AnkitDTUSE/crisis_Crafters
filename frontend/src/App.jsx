@@ -7,6 +7,7 @@ import Checkin from "./Pages/Regular Check-in/Checkin.jsx";
 import Login from "./Pages/Login/login.jsx";
 import CreateStudent from "./Pages/CreateUsers/CreateStudent.jsx";
 import WelcomeStudent from "./Pages/welcome/welcomeStudent.jsx";
+import Quiz from "./Pages/Regular Check-in/Quiz.jsx";
 
 function App() {
   
@@ -21,6 +22,7 @@ function App() {
           <Route path="/login" element={<Login/>} />
           <Route path="/create/user" element={<CreateStudent/>} />
           <Route path="/welcome/user" element={<WelcomeStudent/>} />
+          <Route path="/check-in/quiz" element={ <Quiz/> }/>
         </Routes>
       </BrowserRouter>
     </>
